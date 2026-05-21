@@ -30,5 +30,5 @@ A powerful moderation bot built with Python and discord.py.
 
 ```bash
 git clone https://github.com/Syntaxsquad123/Discord-Server-Bot.git
-cd YOUR_REPO
+cd Discord-Server-Bot
 pip install -r requirements.txt
